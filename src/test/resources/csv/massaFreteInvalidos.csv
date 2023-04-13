@@ -1,0 +1,4 @@
+#,Distância,Peso,Volume,Frete
+5,101,10,1,"Distância muito longa, não é possível calcular o frete."
+6,40,11,4,"Peso muito grande, não é possível calcular o frete."
+7,50,2,5,"Tipo de volume inválido, não é possível calcular o frete."
